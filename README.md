@@ -1,9 +1,9 @@
 # 📊 Excel Sales Analysis Project
 
 ## 📝 Project Overview
-This case study focuses on analyzing product sales data using **Excel formulas only**, without PivotTables. The dataset includes details of transactions such as **Month**, **Seller**, **Category**, **Product**, **State**, **Quantity**, **Sales**, and **Profit**.
+This case study focuses on analyzing product sales data using **Excel**. The dataset includes details of transactions such as **Month**, **Seller**, **Category**, **Product**, **State**, **Quantity**, **Sales**, and **Profit**.
 
-Participants were tasked with cleaning the data and deriving insights related to **sales performance**, **profitability**, and **regional trends**.
+The goal was to clean the data and derive insights related to **sales performance**, **profitability**, and **regional trends**.
 
 ---
 
