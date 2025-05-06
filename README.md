@@ -1,4 +1,4 @@
-# 📊 Excel Sales Analysis Project
+# 📊 Product Sales analysis
 
 ## 📝 Project Overview
 This case study focuses on analyzing product sales data using **Excel**. The dataset includes details of transactions such as **Month**, **Seller**, **Category**, **Product**, **State**, **Quantity**, **Sales**, and **Profit**.
